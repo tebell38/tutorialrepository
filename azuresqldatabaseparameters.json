@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "collation": {
+            "value": "SQL_Latin1_General_CP1_CI_AS"
+        },
+        "databaseName": {
+            "value": "AzureDeploymentSQLDatabase"
+        },
+        "tier": {
+            "value": "Standard"
+        },
+        "skuName": {
+            "value": "S0"
+        },
+        "maxSizeBytes": {
+            "value": 524288000
+        },
+        "sampleName": {
+            "value": "AdventureWorksLT"
+        },
+        "serverLocation": {
+            "value": "eastus"
+        },
+        "serverName": {
+            "value": "tbsampleserver"
+        },
+        "zoneRedundant": {
+            "value": false
+        },
+        "licenseType": {
+            "value": ""
+        }
+    }
+}
