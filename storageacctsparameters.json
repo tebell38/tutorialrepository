@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
       "storageacctname": {
-          "value": "tbstorageacct201808055"
+          "value": "tbstorageacct20180805"
       },
       "location": {
           "value": "eastus"
