@@ -41,10 +41,10 @@ param(
  $deploymentName,
 
  [string]
- $templateFilePath = "azuresqldatabasedeploymenttemplate.json",
+ $templateFilePath = "https://raw.githubusercontent.com/tebell38/tutorialrepository/master/AzureDeploymentTemplates/azuresqldatabasedeploymenttemplate.json",
 
  [string]
- $parametersFilePath = "azuresqldatabaseparameterstemplate.json"
+ $parametersFilePath = "https://raw.githubusercontent.com/tebell38/tutorialrepository/master/AzureDeploymentTemplates/azuresqldatabaseparameterstemplate.json"
 )
 
 <#
