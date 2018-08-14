@@ -23,9 +23,6 @@
         "serverLocation": {
             "value": "eastus"
         },
-        "deploymentname": {
-            "value": "exampledeployment2"
-        },
         "serverName": {
             "value": "tbsampleserver"
         },
