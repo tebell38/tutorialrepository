@@ -41,10 +41,10 @@ param(
  $deploymentName,
 
  [string]
- $templateFilePath = "template.json",
+ $templateFilePath = "azuresqldatabasedeploymenttemplate.json",
 
  [string]
- $parametersFilePath = "parameters.json"
+ $parametersFilePath = "azuresqldatabaseparameterstemplate.json"
 )
 
 <#
