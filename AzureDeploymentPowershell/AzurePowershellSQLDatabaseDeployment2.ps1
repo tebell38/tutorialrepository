@@ -45,6 +45,7 @@ param(
 
  [string]
  $parametersFilePath = "https://raw.githubusercontent.com/tebell38/tutorialrepository/master/AzureDeploymentTemplates/azuresqldatabaseparameterstemplate.json"
+ 
 )
 
 <#
